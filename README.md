@@ -42,9 +42,13 @@ By integrating a custom co-processor architecture with a dedicated navigation fl
 
 Initial operational validation and data gathering were successfully executed using a borrowed high-wing prototype to prove the concept in live airspace.
 
-<!-- Test Flight Image -->
+### 📺 Live Flight Demonstration
 <p align="center">
-  <img src="assets/testflight.jpeg" width="700" alt="Ranger Test Flight Validation">
+  <a href="https://www.linkedin.com/posts/projectphantom_it-flew-and-this-time-it-flew-the-way-we-activity-7468760103798726656-L-lo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGBAxMgBcZF9B4uP7fpV_qOoPytKNPcIiYQ">
+    <img src="assets/testflight.jpeg" width="750" alt="Watch Project Phantom Flight Video">
+  </a>
+  <br>
+  <em>Click the preview image above to watch Project Phantom's live flight footage!</em>
 </p>
 
 * **Airframe:** Volantex Ranger (Borrowed Prototype)
@@ -117,6 +121,13 @@ To achieve faster processing speeds, advanced onboard edge-computing capability,
 ### 📐 Structural & Airframe Materials
 * **Airframe Composites:** Lightweight PLA (LW-PLA) for maximum structural weight savings
 * **Reinforcements:** High-modulus Carbon Fiber Rods and Tubes
+
+---
+
+## 🛠️ Build & Replication Guide
+
+> [!NOTE]
+> **Guide Status:** The complete step-by-step assembly manual, wiring schematics, and flashing instructions are currently being finalized. The comprehensive product building guide will be updated right here as soon as the project ends active development. Stay tuned!
 
 ---
 
