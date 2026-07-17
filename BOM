@@ -1,8 +1,3 @@
-My bad! You're totally right—let's strip out all that stiff, robotic "corporate phase" language. We want this markdown file to sound like you are documenting your actual bench setup, not like a machine wrote a textbook.
-
-Here is the rewritten BOM.md file. It has all the exact same hardware details, prices, and the things you want to scratch-build, but written with a much more natural, clean, developer-to-developer vibe.
-
-Markdown
 # 📋 Project Phantom: The Real BOM List
 
 This is the complete breakdown of what's currently sitting on the lab bench versus what we actually need to get to make this thing completely scratch-built. 
