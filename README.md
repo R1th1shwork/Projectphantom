@@ -3,6 +3,11 @@
 [![Platform](https://img.shields.io/badge/Platform-AtomRC%20Dolphin-orange.svg)](#-hardware-architecture)
 [![Firmware](https://img.shields.io/badge/Firmware-iNAV%20Fixed--Wing-blue.svg)](https://inavflight.com/)
 [![Co-Processor](https://img.shields.io/badge/Co--Processor-Arduino%20Uno%20R4-green.svg)](#-compute--avionics)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-flashy.svg)](#-status)
+
+> [!CAUTION]
+> **Warning: Project Under Active Development**  
+> This repository, hardware configuration, and companion firmware ecosystem are currently undergoing active updates, ongoing optimization, and rapid field-testing updates. Expect frequent breaking adjustments to hardware wiring and software builds.
 
 Project Phantom is an autonomous, fixed-wing environmental monitoring Unmanned Aerial Vehicle (UAV). Built on the **AtomRC Dolphin** airframe, the platform is engineered for real-time atmospheric data logging, micro-climate tracking, and localized air pollution mapping across changing flight paths and altitudes. 
 
@@ -112,3 +117,12 @@ To achieve faster processing speeds, advanced onboard edge-computing capability,
 ### 📐 Structural & Airframe Materials
 * **Airframe Composites:** Lightweight PLA (LW-PLA) for maximum structural weight savings
 * **Reinforcements:** High-modulus Carbon Fiber Rods and Tubes
+
+---
+
+## 🌐 Connect & Track Progress
+
+Stay connected with our development cycles, check out deployment notes, or follow the live builds through our official networks:
+
+* **Official Website:** [projectphantom.studio](https://www.projectphantom.studio/)
+* **LinkedIn Corporate Hub:** [Project Phantom on LinkedIn](https://www.linkedin.com/company/projectphantom)
