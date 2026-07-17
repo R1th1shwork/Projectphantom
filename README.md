@@ -8,6 +8,11 @@ Project Phantom is an autonomous, fixed-wing environmental monitoring Unmanned A
 
 By integrating a custom co-processor architecture with a dedicated navigation flight controller, it provides a highly reliable, dynamic data-collection alternative to traditional fixed environmental networks.
 
+<!-- Main Introduction Image -->
+<p align="center">
+  <img src="assets/projectphantom.jpg" width="800" alt="Project Phantom Main View">
+</p>
+
 ---
 
 ## 📅 Development & Engineering Phases
@@ -21,11 +26,21 @@ By integrating a custom co-processor architecture with a dedicated navigation fl
 * **3D Print Tolerances:** Physical 3D prints consist of small-scale functional vectoring test configurations and enclosure mechanisms to run physical clearance checks before scaling up fabrication.
 * **Airframe Preparation:** The AtomRC Dolphin delta-wing airframe is undergoing iNAV firmware initialization, servo centering, and control surface matching to prepare for future flight envelopes.
 
+<!-- iNAV Preparation Image -->
+<p align="center">
+  <img src="assets/inav.jpg" width="600" alt="iNAV Configuration and Tuning">
+</p>
+
 ---
 
 ## 📊 Real-World Flight Validation Logs (The Ranger Test-Bed)
 
 Initial operational validation and data gathering were successfully executed using a borrowed high-wing prototype to prove the concept in live airspace.
+
+<!-- Test Flight Image -->
+<p align="center">
+  <img src="assets/testflight.jpeg" width="700" alt="Ranger Test Flight Validation">
+</p>
 
 * **Airframe:** Volantex Ranger (Borrowed Prototype)
 * **Completed Sorties:** 2 successful validation flights
@@ -57,6 +72,11 @@ Initial operational validation and data gathering were successfully executed usi
 * **BME680 Array:** Tracks and logs ambient temperature, relative humidity, barometric pressure, and volatile organic compound (VOC) gas resistance.
 * **MQ-135 Module:** Tracks baseline environmental gas levels.
 * **PM Sensor System:** Maps local airborne particulate matter counts.
+
+<!-- Hardware Architecture Pic at the End -->
+<p align="center">
+  <img src="assets/PIC.jpeg" width="600" alt="Hardware Structure Close-up">
+</p>
 
 ---
 
