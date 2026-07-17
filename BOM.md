@@ -57,11 +57,11 @@ This is the big upgrade loop. To make the airplane truly custom and incredibly p
 | Category | What We Need | Why We Need It | Real Market Price (USD) |
 | :--- | :--- | :--- | :--- |
 | **Fabrication** | [ ] Desktop 3D Printer | **The main priority.** Needed to print the whole custom airframe from zero. | $200 - $350 |
-| **Materials** | [ ] LW-PLA Filament Spools | Foaming filament to make the 3D-printed plane super light. | $35 - $45 / spool |
+| **Materials** | [ ] LW-PLA Filament Spools | Foaming filament to make the 3D-printed plane super light. | $35 - $65 / spool |
 | **Materials** | [ ] Carbon Fiber Rods & Tubes | Internal main spars to give the wings and body real strength. | $15 - $25 |
 | **Flight Compute**| [ ] Teensy 4.1 Microcontroller | To run our own completely custom, high-speed PID control loop software. | $30 |
-| **AI & Vision** | [ ] Raspberry Pi 5 (Recent Model) | Upgraded heavyweight co-processor brain to run edge AI and handle vision tasks. | $85 - $125 |
-| **AI & Vision** | [ ] Depth Camera | For advanced spatial mapping, obstacle detection, and 3D environment tracking. | $150 - $250 |
+| **AI & Vision** | [ ] Raspberry Pi 5 (Recent Model) | Upgraded heavyweight co-processor brain to run edge AI and handle vision tasks. | $115 - $165 |
+| **AI & Vision** | [ ] Depth Camera | RealSense or binocular equivalent for spatial mapping, obstacle avoidance, and 3D environment tracking. | $280 - $520 |
 | **AI & Vision** | [ ] Lightweight Industrial Camera | Global shutter / highly crisp optical capture for fast aerial imaging without rolling distortions. | $80 - $150 |
 | **Navigation** | [ ] ICM-20948 9-Axis IMU | Upgrading from the basic MPU6050 to poll motion data way faster. | $15 |
 | **Navigation** | [ ] Beitian BN-880 GPS/Compass | Gives us high-accuracy waypoint navigation with an external compass. | $20 |
