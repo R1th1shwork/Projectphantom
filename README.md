@@ -9,6 +9,10 @@
 > **Warning: Project Under Active Development**  
 > This repository, hardware configuration, and companion firmware ecosystem are currently undergoing active updates, ongoing optimization, and rapid field-testing updates. Expect frequent breaking adjustments to hardware wiring and software builds.
 
+> [!NOTE]
+> **🤖 AI Usage Disclosure**  
+> In compliance with open development transparency, AI tools were utilized during this project to assist with components market research, budget spreadsheet calculations/formatting, and structuring devlog documentation outlines based directly on existing project milestones and hardware specifications. All system architecture, hardware selection, and engineering implementations are designed and executed by the builder.
+
 Project Phantom is an autonomous, fixed-wing environmental monitoring Unmanned Aerial Vehicle (UAV). Built on the **AtomRC Dolphin** airframe, the platform is engineered for real-time atmospheric data logging, micro-climate tracking, and localized air pollution mapping across changing flight paths and altitudes. 
 
 By integrating a custom co-processor architecture with a dedicated navigation flight controller, it provides a highly reliable, dynamic data-collection alternative to traditional fixed environmental networks.
@@ -75,7 +79,7 @@ Initial operational validation and data gathering were successfully executed usi
 ### 🧠 Compute & Avionics
 * **Flight Controller:** AtomRC F405 NAVI Deluxe
 * **Primary Flight Firmware:** iNAV Configurator setup for fixed-wing navigation, stabilization profiles, and waypoint navigation.
-* **Data Log Aggregator (Co-Processor):** Arduino Uno R4 running a dedicated custom code stack managing independent, non-blocking high-frequency $I^2C$ data polling loops and data storage.
+* **Data Log Aggregator (Co-Processor):** Arduino Uno R4 running a dedicated custom code stack managing independent, non-blocking high-frequency I2C data polling loops and data storage.
 
 ### 🍃 Current Sensor Stack
 * **BME680 Array:** Tracks and logs ambient temperature, relative humidity, barometric pressure, and volatile organic compound (VOC) gas resistance.
