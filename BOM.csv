@@ -1,0 +1,35 @@
+Status,Category,Component,Purpose,Price_USD,Link
+Requested,Companion Computing,Raspberry Pi 5 (4GB),Upgraded Linux companion computer handling high-level analytics and vision pipelines,152.48,https://besomi.com/ae_en/dedb0623-sc1111-raspberry-pi-5-4gb.html
+Requested,Vision & Payload Sensors,OV5647 150 Deg Camera,Wide-field optical monitoring payload capturing environmental streams,16.34,https://ar.aliexpress.com/item/32728981532.html?spm=a2g0o.productlist.main.43.289220f6vYD0O9
+Requested,Navigation,Beitian BN-880 GPS/Compass Module,High-accuracy waypoints with external compass alignment,19.33,https://ar.aliexpress.com/item/1005006117531134.html
+Requested,Sensing,SCD40 CO2 Sensor Module,True photoacoustic NDIR greenhouse gas mapping,13.61,https://ar.aliexpress.com/item/1005004251901089.html
+Requested,Telemetry & FPV,Complete FPV Kit System,"Low-latency analog camera + 5.8GHz VTX + 4.3"" Ground Monitor Setup",108.92,https://ar.aliexpress.com/item/1005010048253687.html
+Requested,Navigation,ICM-20948 9-Axis High-Performance IMU,Upgraded high-rate motion data polling,8.17,https://ar.aliexpress.com/item/1005012615709661.html
+Requested,Navigation,Time-of-Field (ToF) Sensor,Laser distance altimeter for precision landing paths,7.35,https://ar.aliexpress.com/item/1005012576820411.html
+Requested,Telemetry & Comms,RadioLink R12F Receiver,Dedicated telemetry receiver with CRSF signal routing,15.74,https://ar.aliexpress.com/item/1005008371264664.html
+Requested,Fabrication,Custom Integration PCB Prototype,Custom breakout shield routing power and hardware buses for Pi 5 and sensors,12.0,
+Requested,Sensing,Differential Airspeed Pitot Tube Kit,Crucial fixed-wing true airspeed telemetry to prevent stalls and calculate wind drift vectors,28.59,https://ar.aliexpress.com/item/1005009943453550.html
+Requested,Buffer,Shipping & Price Fluctuation Buffer,Flat allocation for shipping fees and unexpected price shifts,17.47,
+Requested,PHASE TOTAL REQUEST,Total Requested Amount for Prototyping,Total requested procurement funding for the development of an advanced UAV prototype,400.0,
+Have,Airframe,Apprentice S15e Airframe,High-wing trainer for testing concepts,,
+Have,Airframe,AtomRC Dolphin Pro Airframe,Forward-swept wing frame,,
+Have,Propulsion,2807 1100KV Brushless Outrunner Motor,Main motor baseline setup,,
+Have,Propulsion,6S 50A BLS ESC Unit,Electronic speed controller unit,,
+Have,Propulsion,2x 8040-2 (8x4) Two-Blade Propellers,Propellers for validation testing,,
+Have,Propulsion,4x S09M 9g Digital Metal Gear Servos,Control surface servos for testing,,
+Have,Power,4S 2200mAh LiPo Battery (Backup),Desk test bench power,,
+Have,Power,6S 3500mAh LiPo Battery,Main high capacity power pack,,
+Have,Compute,AtomRC F405 NAVI Deluxe FC,Stock flight controller from Dolphin RTH,,
+Have,Compute,Arduino Uno R4,Current data log aggregator,,
+Have,Compute,Arduino Nano (Backup),Secondary micro-node,,
+Have,Telemetry & Comms,RadioLink TD12 Transmitter & R12F Receiver Setup,Main radio control link link,,
+Have,Navigation,AtomRC BE220 GPS Module,Stock navigation unit from Dolphin,,
+Have,Navigation,Standard NEO-6M / NEO-M8N GPS Module,Basic standalone GPS,,
+Have,Navigation,MPU6050 6-Axis IMU (Backup),Baseline orientation checks,,
+Have,Telemetry & Comms,RF Transceiver Modules,Wireless tracking tests,,
+Have,Sensing,BME680 Sensor Matrix,"Tracks VOC gas, temp, humidity, pressure",,
+Have,Sensing,PMS5003 Particulate Matter Sensor,Laser dust PM2.5 monitoring,,
+Have,Sensing,DHT11 Sensor (Backup),Basic temperature stick,,
+Have,Sensing,Standard MQ Gas Sensor Module (Backup),Baseline gas tracker checks,,
+Future,Fabrication,Desktop 3D Printer,Main core printer to print entire scratch airframe,,
+Future,Materials,LW-PLA Filament Spools,Foaming filament for ultra-light printed airframe,,
