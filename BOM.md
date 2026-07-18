@@ -36,7 +36,7 @@ This is the gear we already own. We're using a lot of this for initial testing, 
 
 ---
 
-## 🛠️ Structural Building Supplies & Bench Consumables (~$20 - $120)
+## 🛠️ Structural Building Supplies & Bench Consumables
 
 The essential setup gear needed to wire up the custom frame, solder connections, and keep everything secure inside the hull so nothing shifts mid-air.
 
@@ -54,29 +54,36 @@ The essential setup gear needed to wire up the custom frame, solder connections,
 
 This is the big upgrade loop. To make the airplane truly custom and incredibly powerful, we are bypassing pre-built foam kits and commercial autopilot brains. Everything we already have has been taken out of this list so we don't buy double.
 
-| Category | What We Need | Why We Need It | Real Market Price (USD) |
-| :--- | :--- | :--- | :--- |
-| **Fabrication** | [ ] Desktop 3D Printer | **The main priority.** Needed to print the whole custom airframe from zero. | $200 - $350 |
-| **Materials** | [ ] LW-PLA Filament Spools | Foaming filament to make the 3D-printed plane super light. | $35 - $65 / spool |
-| **Materials** | [ ] Carbon Fiber Rods & Tubes | Internal main spars to give the wings and body real strength. | $15 - $25 |
-| **Flight Compute**| [ ] Teensy 4.1 Microcontroller | To run our own completely custom, high-speed PID control loop software. | $30 |
-| **AI & Vision** | [ ] Raspberry Pi 5 (Recent Model) | Upgraded heavyweight co-processor brain to run edge AI and handle vision tasks. | $115 - $165 |
-| **AI & Vision** | [ ] Depth Camera | RealSense or binocular equivalent for spatial mapping, obstacle avoidance, and 3D environment tracking. | $280 - $520 |
-| **AI & Vision** | [ ] Lightweight Industrial Camera | Global shutter / highly crisp optical capture for fast aerial imaging without rolling distortions. | $80 - $150 |
-| **Navigation** | [ ] ICM-20948 9-Axis IMU | Upgrading from the basic MPU6050 to poll motion data way faster. | $15 |
-| **Navigation** | [ ] Beitian BN-880 GPS/Compass | Gives us high-accuracy waypoint navigation with an external compass. | $20 |
-| **Navigation** | [ ] Time-of-Field (ToF) Sensor | Laser distance altimeter for perfect landings and low alt tracking. | $10 - $15 |
-| **Atmospheric** | [ ] SCD40 CO2 Sensor | True photoacoustic sensor to get real, exact greenhouse gas mappings. | $40 - $50 |
-| **Atmospheric** | [ ] MQ-135 Gas Sensor | Target specialized air quality levels in the atmosphere. | $5 |
-| **Propulsion** | [ ] Coaxial Brushless Setup | Contrarotating motor assembly for a massive power boost. | $40 - $60 |
-| **Propulsion** | [ ] Secondary 6S ESC | To drive the second motor in the coaxial dual-stack configuration. | $25 - $35 |
-| **Servos** | [ ] 4x Wing + 4x Rudder/Tail | Getting all the servos needed for our custom control surfaces. | $30 - $50 total |
-| **Mechanisms** | [ ] 3x Landing Gear Servos | To build our own custom deployable/retractable gear system. | $20 - $30 total |
-| **Gimbal** | [ ] 4x Gimbal Servos | Active servo setup to keep the main sensor/camera payload completely stable. | $25 - $45 total |
-| **Telemetry & FPV**| [ ] Complete FPV Kit System | Combo kit including Low-latency Analog Micro FPV Camera, 5.8GHz Video Transmitter (VTX), and 4.3" FPV Ground Monitor Screen. | ~$135 (500 AED) |
-| **Telemetry** | [ ] Long-Range LoRa Modules | Dedicated data link to pass raw telemetry text strings independently. | $25 - $40 |
+| Category | What We Need | Why We Need It |
+| :--- | :--- | :--- |
+| **Fabrication** | [ ] Desktop 3D Printer | **The main priority.** Needed to print the whole custom airframe from zero. |
+| **Materials** | [ ] LW-PLA Filament Spools | Foaming filament to make the 3D-printed plane super light. |
+| **Materials** | [ ] Carbon Fiber Rods & Tubes | Internal main spars to give the wings and body real strength. |
+| **Flight Compute**| [ ] Teensy 4.1 Microcontroller | To run our own completely custom, high-speed PID control loop software. |
+| **AI & Vision** | [ ] Raspberry Pi 5 (Recent Model) | Upgraded heavyweight co-processor brain to run edge AI and handle vision tasks. |
+| **AI & Vision** | [ ] Depth Camera | RealSense or binocular equivalent for spatial mapping, obstacle avoidance, and 3D environment tracking. |
+| **AI & Vision** | [ ] Lightweight Industrial Camera | Global shutter / highly crisp optical capture for fast aerial imaging without rolling distortions. |
+| **Navigation** | [ ] ICM-20948 9-Axis IMU | Upgrading from the basic MPU6050 to poll motion data way faster. |
+| **Navigation** | [ ] Beitian BN-880 GPS/Compass | Gives us high-accuracy waypoint navigation with an external compass. |
+| **Navigation** | [ ] Time-of-Field (ToF) Sensor | Laser distance altimeter for perfect landings and low alt tracking. |
+| **Atmospheric** | [ ] SCD40 CO2 Sensor | True photoacoustic sensor to get real, exact greenhouse gas mappings. |
+| **Atmospheric** | [ ] MQ-135 Gas Sensor | Target specialized air quality levels in the atmosphere. |
+| **Propulsion** | [ ] Coaxial Brushless Setup | Contrarotating motor assembly for a massive power boost. |
+| **Propulsion** | [ ] Secondary 6S ESC | To drive the second motor in the coaxial dual-stack configuration. |
+| **Servos** | [ ] 4x Wing + 4x Rudder/Tail | Getting all the servos needed for our custom control surfaces. |
+| **Mechanisms** | [ ] 3x Landing Gear Servos | To build our own custom deployable/retractable gear system. |
+| **Gimbal** | [ ] 4x Gimbal Servos | Active servo setup to keep the main sensor/camera payload completely stable. |
+| **Telemetry & FPV**| [ ] Complete FPV Kit System | Combo kit including Low-latency Analog Micro FPV Camera, 5.8GHz Video Transmitter (VTX), and 4.3" FPV Ground Monitor Screen. |
+| **Telemetry** | [ ] Long-Range LoRa Modules | Dedicated data link to pass raw telemetry text strings independently. |
 
 > ⚠️ *Note: We'll pull our existing **BME680** off the test bench and throw it right into the new setup when building, so no need to buy a second one.*
+
+---
+
+## 📊 Phase Procurement Summary
+
+* **Total Requested Amount for Prototyping:** $400.00 USD  
+*(Procurement allocation request targeting immediate core companion computing integration, custom PCB routing, primary navigation tracking modules, and analog telemetry link components for advanced prototype development).*
 
 ---
 
