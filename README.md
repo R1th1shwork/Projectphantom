@@ -10,8 +10,8 @@
 > This repository, hardware configuration, and companion firmware ecosystem are currently undergoing active updates, ongoing optimization, and rapid field-testing updates. Expect frequent breaking adjustments to hardware wiring and software builds.
 
 > [!NOTE]
-> **🤖 AI Usage Disclosure**  
-> In compliance with open development transparency, AI tools were utilized during this project to assist with components market research, budget spreadsheet calculations/formatting, and structuring devlog documentation outlines based directly on existing project milestones and hardware specifications. All system architecture, hardware selection, and engineering implementations are designed and executed by the builder.
+> **🤖 100% Builder-Engineered (AI Transparency Disclosure)**  
+> Every single piece of system architecture, hardware selection, circuit schematic, and physical build execution is 100% designed, engineered, and wired by the builder from scratch. AI was strictly used as a digital sounding board to help format spreadsheet formulas, clean up market research data, and polish the final grammar/structure of these devlogs. The brains, the solder, and the flight logic are entirely human-built..
 
 Project Phantom is an autonomous, fixed-wing environmental monitoring Unmanned Aerial Vehicle (UAV). Built on the **AtomRC Dolphin** airframe, the platform is engineered for real-time atmospheric data logging, micro-climate tracking, and localized air pollution mapping across changing flight paths and altitudes. 
 
